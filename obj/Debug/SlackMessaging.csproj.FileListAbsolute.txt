@@ -1,0 +1,10 @@
+C:\Users\Maruf\source\repos\SlackMessaging\bin\Debug\SlackMessaging.exe.config
+C:\Users\Maruf\source\repos\SlackMessaging\bin\Debug\SlackMessaging.exe
+C:\Users\Maruf\source\repos\SlackMessaging\bin\Debug\SlackMessaging.pdb
+C:\Users\Maruf\source\repos\SlackMessaging\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maruf\source\repos\SlackMessaging\bin\Debug\SlackBotMessages.dll
+C:\Users\Maruf\source\repos\SlackMessaging\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maruf\source\repos\SlackMessaging\obj\Debug\SlackMessaging.csprojAssemblyReference.cache
+C:\Users\Maruf\source\repos\SlackMessaging\obj\Debug\SlackMessaging.csproj.CopyComplete
+C:\Users\Maruf\source\repos\SlackMessaging\obj\Debug\SlackMessaging.exe
+C:\Users\Maruf\source\repos\SlackMessaging\obj\Debug\SlackMessaging.pdb
